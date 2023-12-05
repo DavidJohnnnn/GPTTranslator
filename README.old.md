@@ -1,0 +1,3 @@
+# ChatGPT Translator - Working Goal
+
+ChatGPT translation app that can translate through ChatGPT with similar parameters given by Google translate and special parameters like the ones I input using ChatGPT translation. Something I can use so I don't get the freezes that ChatGPT gets. I could even have a ChatGPT 4 version where I can input my API key with a counter that examines how many calls I have left for the three-hour window.
